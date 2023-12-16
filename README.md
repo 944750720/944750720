@@ -11,7 +11,7 @@
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Web application for searching price down info](https://github.com/944750720/intern) |
 
-##  Research work
+##  Research work (On-going)
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Complex self-organizing map neural network and DBF AoA estimation algorithm](https://github.com/944750720/CSOM) |
