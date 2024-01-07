@@ -4,6 +4,8 @@
 ![Git](https://img.shields.io/badge/Git-000?logo=Git)
 ![Linux](https://img.shields.io/badge/Linux-yellow?logo=Linux)
 ![SQL](https://img.shields.io/badge/SQL-000?logo=sqlite)
+![visualstudiocode](https://img.shields.io/badge/VScode-blue?logo=visualstudiocode)
+![jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
 
 ## Completed project
 
