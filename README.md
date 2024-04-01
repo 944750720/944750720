@@ -12,6 +12,7 @@
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Web application for searching price down info](https://github.com/944750720/intern) |
+| 2 | [Crawler for fraud info Database](https://github.com/944750720/crawler-for-fraud-info-database) |
 
 ##  Research work (On-going)
 | # |                                                              Repositories                                                              |
