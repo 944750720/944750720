@@ -15,8 +15,9 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Web application for searching price down info](https://github.com/944750720/intern) |
-| 2 | [Crawler for fraud info Database](https://github.com/944750720/crawler-for-fraud-info-database) |
+| 1 | [Search similar context by Opensearch and Langchian](https://github.com/944750720/Search_similar_context_by_Opensearch_and_Langchian/tree/main) |
+| 2 | [Web application for searching price down info](https://github.com/944750720/intern) |
+| 3 | [Crawler for fraud info Database](https://github.com/944750720/crawler-for-fraud-info-database) |
 
 ##  Research work (On-going)
 | # |                                                              Repositories                                                              |
