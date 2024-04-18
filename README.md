@@ -9,6 +9,7 @@
 ![Docker](https://img.shields.io/badge/docker-blue?logo=Docker)
 
 
+<hr width="100%">
 
 ## Completed project
 
