@@ -6,6 +6,9 @@
 ![SQL](https://img.shields.io/badge/SQL-000?logo=sqlite)
 ![visualstudiocode](https://img.shields.io/badge/VScode-blue?logo=visualstudiocode)
 ![jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
+![Docker](https://img.shields.io/badge/docker-blue?logo=Docker)
+
+
 
 ## Completed project
 
