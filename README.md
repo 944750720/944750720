@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-yellow?logo=Python)
 ![Git](https://img.shields.io/badge/Git-white?logo=Git)
 ![Linux](https://img.shields.io/badge/Linux-blue?logo=Linux)
-![SQL](https://img.shields.io/badge/SQL-000?logo=sqlite)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=sqlite)
 ![visualstudiocode](https://img.shields.io/badge/VScode-blue?logo=visualstudiocode)
 ![jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
 ![Docker](https://img.shields.io/badge/docker-blue?logo=Docker)
