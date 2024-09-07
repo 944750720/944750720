@@ -21,6 +21,6 @@
 | 2 | [Web application for searching price down info](https://github.com/944750720/intern) |
 | 3 | [Crawler for fraud info Database](https://github.com/944750720/crawler-for-fraud-info-database) |
 
-##  Research work (On-going)
+##  In-progress work
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
