@@ -24,4 +24,5 @@
 
 ##  In-progress work
 | # |                                                              Repositories                                                              |
+| 1 | [Portfolio blog(Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)](https://github.com/944750720/portfolio) |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
