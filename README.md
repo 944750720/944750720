@@ -1,5 +1,3 @@
-<img width="55%" align="right" alt="My github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=944750720&show_icons=true&hide_border=true"/>
-
 ![Python](https://img.shields.io/badge/Python-yellow?logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
 ![Git](https://img.shields.io/badge/Git-white?logo=Git)
@@ -10,6 +8,12 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=Docker)
 ![S3](https://img.shields.io/badge/AmazonS3-orange?logo=AmazonS3)
 ![Opensearch](https://img.shields.io/badge/Opensearch-blue?logo=Opensearch)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=944750720&langs_count=8&layout=compact&theme=dark&" height="200">
+<img width="55%" align="right" alt="My github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=944750720&show_icons=tru&theme=dark" height="200"/>
+</a>
 
 
 <hr width="100%">
