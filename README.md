@@ -1,5 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-yellow?logo=Python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-green?logo=typescript)
 ![Git](https://img.shields.io/badge/Git-white?logo=Git)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=Linux)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=SQLAlchemy)
