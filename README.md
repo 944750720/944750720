@@ -1,114 +1,167 @@
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-yellow?logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-green?logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-white?logo=Git&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-black?logo=Linux&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=SQLAlchemy&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=orange)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=Docker&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-orange?logo=amazons3&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-blue?logo=opensearch&logoColor=white)
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=52" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3784F4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=500&lines=Building+things+for+the+web;Next.js+%7C+TypeScript+%7C+Python;Always+learning+new+things" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![GitHub](https://img.shields.io/badge/GitHub-944750720-181717?style=for-the-badge&logo=github)](https://github.com/944750720)
 
 </div>
 
-<hr width="100%">
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,docker,linux,git,vscode&perline=10" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/944750720">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=944750720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=944750720&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=944750720&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=944750720&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
-</div>
+<br/>
 
-<hr width="100%">
-
-## 🏆 Completed Projects
-
-<div align="center">
-
-| # | Project | Description | Tech Stack |
-|:-:|:-------:|:-----------:|:----------:|
-| 1 | [🔍 Search Similar Context](https://github.com/944750720/Search_similar_context_by_Opensearch_and_Langchian/tree/main) | Similar context search using Opensearch and LangChain | `Python` `Opensearch` `LangChain` |
-| 2 | [💰 Price Down Info](https://github.com/944750720/intern) | Web application for searching price down information | `TypeScript` `Next.js` |
-| 3 | [🕵️ Fraud Info Crawler](https://github.com/944750720/crawler-for-fraud-info-database) | Crawler for fraud information database | `Python` `Scrapy` |
-| 4 | [🎨 Portfolio Blog](https://github.com/944750720/portfolio) | Personal portfolio blog website | `Next.js` `Framer Motion` `Tailwind CSS` |
+<img src="https://github-readme-streak-stats.herokuapp.com?user=944750720&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
-<hr width="100%">
+---
 
-## 🚀 In Progress
+### ✅ Completed Projects
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        <a href="https://github.com/944750720/Search_similar_context_by_Opensearch_and_Langchian/tree/main">
+          <b>🔍 Search Similar Context</b>
+        </a>
+        <br/><sub>Semantic search engine using Opensearch & LangChain</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>
+        <a href="https://github.com/944750720/intern">
+          <b>💰 Price Down Info</b>
+        </a>
+        <br/><sub>Web app for searching price reduction info</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>
+        <a href="https://github.com/944750720/crawler-for-fraud-info-database">
+          <b>🕵️ Fraud Info Crawler</b>
+        </a>
+        <br/><sub>Web crawler for fraud information database</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>
+        <a href="https://github.com/944750720/portfolio">
+          <b>🎨 Portfolio Blog</b>
+        </a>
+        <br/><sub>Personal portfolio website with animations</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🚀 In Progress
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        <a href="https://github.com/944750720/blog-frontend">
+          <b>📝 Blog Frontend</b>
+        </a>
+        <br/><sub>Full-stack blog rebuilt with modern tech stack</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/-Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SWR-000000?style=flat-square&logo=swr&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 <div align="center">
 
-| # | Project | Description | Tech Stack |
-|:-:|:-------:|:-----------:|:----------:|
-| 1 | [📝 Blog Frontend](https://github.com/944750720/blog-frontend) | New blog frontend rewrite with modern stack | `Next.js 16` `shadcn/ui` `SWR` `Axios` |
-
-</div>
-
-<hr width="100%">
-
-## 🔧 Tools & Resources for README Beautification
-
-### 📌 Recommended Open Source Tools
-
-| Tool | Description | Stars |
-|------|-------------|:-----:|
-| [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | Curated list of awesome GitHub Profile README templates | ⭐ 29K+ |
-| [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | Dynamically generated GitHub stats for your README | ⭐ 79K+ |
-| [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | Dynamic typing SVG effect for your README | ⭐ 3K+ |
-| [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) | Generate GitHub Profile README easily | ⭐ 24K+ |
-| [skill-icons](https://github.com/tandpfun/skill-icons) | Skill icons for your README | ⭐ 3K+ |
-
-### 🎨 Beautiful README Components
-
-1. **Dynamic Typing Effect** - [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-   ```markdown
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3784F4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Line+1;Line+2" alt="Typing SVG" />
-   ```
-
-2. **GitHub Stats Cards** - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-   ```markdown
-   ![Stats](https://github-readme-stats.vercel.app/api?username=944750720&theme=tokyonight)
-   ```
-
-3. **Skill Icons** - [skill-icons](https://github.com/tandpfun/skill-icons)
-   ```markdown
-   <img src="https://skillicons.dev/icons?i=python,js,ts,docker" />
-   ```
-
-4. **Activity Graph** - [github-readme-activity-graph](https://github.com/AshKyd/github-readme-activity-graph)
-   ```markdown
-   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=944750720&theme=tokyonight)
-   ```
-
-### 🎭 Popular Themes for github-readme-stats
-
-- `tokyonight` - Deep blue theme (recommended)
-- `radical` - Purple-pink gradient
-- `dracula` - Dracula theme
-- `catppuccin_mocha` - Soft pastel colors
-- `github_dark` - GitHub dark theme
-- `vue` - Vue.js green theme
-- `onedark` - One Dark theme
-- `cobalt` - Cobalt theme
-
-<hr width="100%">
-
-<div align="center">
-
-**Thanks for visiting!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=944750720&color=blueviolet&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
