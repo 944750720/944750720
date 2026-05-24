@@ -12,8 +12,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=944750720&langs_count=8&layout=compact&theme=dark&" height="200">
-<img width="55%" align="right" alt="My github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=944750720&show_icons=tru&theme=dark" height="200"/>
+<img width="55%" align="left" alt="My github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=944750720&show_icons=tru&theme=dark" height="200"/>
 </a>
 
 
