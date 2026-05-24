@@ -26,8 +26,10 @@
 | 1 | [Search similar context by Opensearch and Langchian](https://github.com/944750720/Search_similar_context_by_Opensearch_and_Langchian/tree/main) |
 | 2 | [Web application for searching price down info](https://github.com/944750720/intern) |
 | 3 | [Crawler for fraud info Database](https://github.com/944750720/crawler-for-fraud-info-database) |
+| 4 | [Portfolio blog(Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)](https://github.com/944750720/portfolio) |
 
 ##  In-progress work
+
 | # |                                                              Repositories                                                              |
-| 1 | [Portfolio blog(Next.js App, Framer Motion, TypeScript, Tailwind CSS, Email)](https://github.com/944750720/portfolio) |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 1 | [Blog frontend(Next.js App, shadcn/ui, SWR, Axios, Tailwind CSS)](https://github.com/944750720/blog-frontend) |
