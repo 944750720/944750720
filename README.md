@@ -93,6 +93,41 @@
 
 ---
 
+### 🤝 Open Source Contributions
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project</th>
+      <th>Contribution</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>
+        <a href="https://github.com/google-gemini/gemini-cli">
+          <b>✨ Gemini CLI</b>
+        </a>
+        <br/><sub>Google's open-source AI agent for the terminal</sub>
+      </td>
+      <td>
+        <a href="https://github.com/google-gemini/gemini-cli/pull/7174">
+          <b>fix(ui): fix drag-and-drop file feature for macOS terminal</b>
+        </a>
+        <br/><sub>Fixed macOS drag-and-drop by implementing robust character aggregation and debounce</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### ✅ Completed Projects
 
 <table align="center">
