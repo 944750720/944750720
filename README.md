@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,graphql,postgres,docker,linux,aws,gcp,azure,git,githubactions,terraform,nginx,vite,vitest,bash&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,graphql,postgres,docker,linux,aws,gcp,azure,git,githubactions,terraform,nginx,vite,vitest,bash&perline=10" />
 
 <br/><br/>
 
