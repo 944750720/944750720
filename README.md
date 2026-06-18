@@ -122,6 +122,24 @@
         <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white" />
       </td>
     </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>
+        <a href="https://github.com/langfuse/langfuse">
+          <b>🔭 Langfuse</b>
+        </a>
+        <br/><sub>Open-source LLM engineering platform for tracing & evaluation</sub>
+      </td>
+      <td>
+        <a href="https://github.com/langfuse/langfuse/pull/14315">
+          <b>fix(datasets): show expected output on dataset item runs page</b>
+        </a>
+        <br/><sub>Fixed empty Expected Output column by replacing broken row field lookup with page-scoped datasetItemId prop</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Open-238636?style=flat-square&logo=github&logoColor=white" />
+      </td>
+    </tr>
   </tbody>
 </table>
 
