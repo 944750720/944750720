@@ -143,7 +143,7 @@
         <br/><sub>Fixed empty Expected Output column by replacing broken row field lookup with page-scoped datasetItemId prop</sub>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Open-238636?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white" />
       </td>
     </tr>
   </tbody>
